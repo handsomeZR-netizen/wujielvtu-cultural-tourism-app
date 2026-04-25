@@ -1,3 +1,35 @@
+# Wujielvtu Cultural Tourism App
+
+<!-- PORTFOLIO-SNAPSHOT:START -->
+<p align="left">
+  <img src="https://img.shields.io/badge/category-Frontend%20or%20full--stack%20web%20project-blue" alt="Category" />
+  <img src="https://img.shields.io/badge/status-Public%20portfolio%20artifact-2ea44f" alt="Status" />
+</p>
+
+> Cultural tourism web application prototype with Vite/TypeScript frontend, deployment notes, and integration documentation.
+
+## Project Snapshot
+
+- Category: Frontend or full-stack web project
+- Stack: TypeScript, cultural-tourism, student-projects, typescript, vercel, vite
+- Status: Public portfolio artifact
+
+## What This Demonstrates
+
+- Presents the project with a clear purpose, technology stack, and review path.
+- Demonstrates frontend delivery, deployment awareness, and user-facing product structure.
+- Keeps implementation details and usage notes close to the code for easier reuse.
+
+## Quick Start
+
+```bash
+npm install && npm run build
+```
+
+<!-- PORTFOLIO-SNAPSHOT:END -->
+
+## Original Documentation
+
 <div align="center">
 
 # 🌏 无界旅图 | Boundless Lens
